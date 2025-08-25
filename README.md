@@ -1,1 +1,1 @@
-Este es un cambio en la rama de mi compañero
+Esta es la rama principal
